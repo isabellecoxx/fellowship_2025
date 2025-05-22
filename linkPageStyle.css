@@ -1,0 +1,39 @@
+/*
+File to store the styling informating for the classes.html, projects.html, and me.html pages.
+*/
+
+.titleText{
+    border-radius: 8px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    background-color: pink;
+    font-family: "Lucidia Handwriting", cursive;
+    padding: 20px;
+
+}
+.headerText{
+    border-radius: 8px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background-color: powderblue;
+    padding: 5px;
+    font-family: "Lucidia Handwriting", cursive;
+}
+.bodyText{
+    color: white;
+    text-align: center;
+}
+.matchingImg{
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    width: 17%;
+}
+.catImg{
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    width: 25%;
+}
