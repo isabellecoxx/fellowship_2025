@@ -3,22 +3,22 @@ File to store the styling informating for the classes.html, projects.html, and m
 */
 
 .titleText{
-    border-radius: 8px;
+    border-radius: 3.3em;
     text-align: center;
-    font-size: 40px;
+    font-size: 1.13em;
     color: white;
     background-color: pink;
     font-family: "Lucidia Handwriting", cursive;
-    padding: 20px;
+    padding: 0.3em;
 
 }
 .headerText{
-    border-radius: 8px;
+    border-radius: 3.3em;
     text-align: center;
-    font-size: 25px;
+    font-size: 1.5em;
     color: white;
     background-color: powderblue;
-    padding: 5px;
+    padding: 0.2em;
     font-family: "Lucidia Handwriting", cursive;
 }
 .bodyText{
@@ -26,12 +26,23 @@ File to store the styling informating for the classes.html, projects.html, and m
     text-align: center;
 }
 .matchingImg{
-    border-radius: 8px;
+    border-radius: 1.5em;
     display: block;
     margin: auto;
 }
+/*
 .catImg{
-    border-radius: 8px;
+    border-radius: 1.5em;
     display: block;
     margin: auto;
+}
+*/
+.column{
+    flex: 5%;
+}
+.row{
+    display: flex;
+    flex-grow:4;
+    justify-content: center;
+    
 }

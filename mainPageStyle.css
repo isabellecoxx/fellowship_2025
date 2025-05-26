@@ -9,29 +9,29 @@ File to store the styling informating for the index.html page.
 .cuteFlower{
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 1.5em;
 }
 .headerText{
-    border-radius: 8px;
-    font-size: 25px;
+    border-radius: 3.3em;
+    font-size: 1.5em;
     text-align: center;
     color: white;
     background-color: thistle;
     font-family: "Lucidia Handwriting", cursive;
-    padding: 5px;
+    padding: 0.2em;
 }
 .titleText{
-    border-radius: 8px;
+    border-radius: 3.3em;
     text-align: center;
-    font-size: 40px;
+    font-size: 2.5em;
     color: white;
     background-color: powderblue;
     font-family: "Lucidia Handwriting", cursive;
-    padding: 20px;
+    padding: 0.2em;
 
 }
 .flowerImg{
-    border-radius: 8px;
+    border-radius: 1.5em;
     display: block;
     margin: auto;
     width: 80%;
